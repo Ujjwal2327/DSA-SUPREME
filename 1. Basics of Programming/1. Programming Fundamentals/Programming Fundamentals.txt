@@ -1,0 +1,25 @@
+pseudocode and flowchart
+    give difference of 2 numbers
+    print multiplication of 2 numbers
+    print average of 2 numbers
+    add 2 numbers by taking input
+    find circumference of a circle
+    average of 3 numbers
+    check number is odd or even
+    student and grade
+    check +ve, -ve or 0
+    print counting from 1 to N
+    add N numbers from user
+    printing 1 to N but only odd numbers
+
+HOMEWORK
+    multiply 2 numbers by taking input
+    find oerimeter of a triangle
+    find simple interest
+    print counting fron N to 1
+    find factorial of a number
+    check prime or not
+    valid triangle or not
+    printing 1 to N but only even numbers
+    print max of 3 numbers
+    
