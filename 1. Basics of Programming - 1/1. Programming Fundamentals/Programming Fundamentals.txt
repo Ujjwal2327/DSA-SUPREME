@@ -1,4 +1,5 @@
-pseudocode and flowchart
+thought process to solve a question
+flowchart and pseudocode
     give difference of 2 numbers
     print multiplication of 2 numbers
     print average of 2 numbers
@@ -11,6 +12,7 @@ pseudocode and flowchart
     print counting from 1 to N
     add N numbers from user
     printing 1 to N but only odd numbers
+compilation process
 
 HOMEWORK
     multiply 2 numbers by taking input
