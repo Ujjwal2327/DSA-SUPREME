@@ -12,12 +12,5 @@ compiler vs interpreter
 32-bit and 64-bit CPU
 variable naming comvention in C++
     how variables are named - rules
-        meaningful name
-        no space
-        dont start with digit
-        use camelCase
-        start with small letter
-        no special symbol
-        no reserved keyword
-        unique variable name
+        https://www.geeksforgeeks.org/naming-convention-in-c/
 precedence table

@@ -1,0 +1,4 @@
+a=5;
+cout<<(++a)*(++a);
+
+convert celsius to fah  precision doubt for input 10.9872

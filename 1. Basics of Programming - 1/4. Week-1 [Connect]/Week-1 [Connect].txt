@@ -1,7 +1,6 @@
+HOMEWORK
 C is HLL or MLL
 add 2 short with values 32767 and 10 and store in another short and print
-
-HOMEWORK
 50 selfmade mcqs on typecasting
 make and try all combinations of datatype1 operator datatype2
 ternary operator

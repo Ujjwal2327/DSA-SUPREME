@@ -1,0 +1,15 @@
+HOMEWORK
+solid square pattern
+hollow square pattern
+hollow inverted half pyramid
+hollow full pyramid
+numeric hollow half pyramid
+numeric hollow inverted half pyramid
+numeric palindrome equilateral pyramid
+fancy pattern #1
+solid half diamond pyramid
+fancy pattern #3
+fancy pattern #2
+floyd's triangle pattern
+pascal's triangle pattern
+butterfly pattern

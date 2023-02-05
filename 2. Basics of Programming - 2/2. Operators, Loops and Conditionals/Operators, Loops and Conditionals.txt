@@ -1,0 +1,9 @@
+HOMEWORK
+a=5;
+cout<<(++a)*(++a);
+
+what type of expression and datatype can be given to switch expression
+can we use continue in switch case
+    no
+can we add operator in switch case
+    yes

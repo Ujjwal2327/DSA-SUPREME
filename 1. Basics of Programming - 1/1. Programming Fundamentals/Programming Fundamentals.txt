@@ -15,8 +15,9 @@ flowchart and pseudocode
 compilation process
 
 HOMEWORK
+make flowchart and pseudocode of following
     multiply 2 numbers by taking input
-    find oerimeter of a triangle
+    find perimeter of a triangle
     find simple interest
     print counting fron N to 1
     find factorial of a number

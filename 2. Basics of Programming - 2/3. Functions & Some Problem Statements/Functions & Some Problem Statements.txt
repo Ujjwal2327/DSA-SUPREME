@@ -1,0 +1,11 @@
+meaning of return 0, 1, -1 in c++
+parameters in main function
+write a function to 
+    display area of circle
+    find number is even or odd
+    find factorial of a number
+    check number is prime or not
+    print all prime numbers from 1 to n
+    reverse an integer
+    set ith bit
+    convert celsius to fahrenheit
