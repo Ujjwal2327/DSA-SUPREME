@@ -1,4 +1,5 @@
-a=5;
-cout<<(++a)*(++a);
+w2 l2 homework
+    a=5;
+    cout<<(++a)*(++a);
 
 convert celsius to fah  precision doubt for input 10.9872

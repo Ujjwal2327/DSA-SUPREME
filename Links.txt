@@ -1,15 +1,14 @@
 variable naming conventions in C++
     https://www.geeksforgeeks.org/naming-convention-in-c/
 
-what type of expression and datatype can be given to switch expression
+cout<<(++a)*(++a);
+    https://gynvael.coldwind.pl/?id=372
+
+Interesting facts about switch statement
     https://www.geeksforgeeks.org/interesting-facts-about-switch-statement-in-c/
 
 meaning of return 0, 1, -1 in c++
     https://www.geeksforgeeks.org/return-0-vs-return-1-in-c/
 
-Interesting facts about switch statement
-    https://www.geeksforgeeks.org/interesting-facts-about-switch-statement-in-c/
-
 parameters in main function
     https://www.ibm.com/docs/en/zos/2.2.0?topic=functions-main-function
-

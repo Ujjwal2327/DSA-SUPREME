@@ -1,6 +1,15 @@
+High Level language
+print 1 to 5
+check prime or not
+endl and main and some other can be used as variable name
+addition and subtraction in different datatypes
+if else-if else conditions without {}
+
 HOMEWORK
 C is HLL or MLL
 add 2 short with values 32767 and 10 and store in another short and print
+    homework.cpp
 50 selfmade mcqs on typecasting
 make and try all combinations of datatype1 operator datatype2
+    done in main.cpp
 ternary operator

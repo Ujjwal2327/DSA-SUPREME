@@ -1,11 +1,35 @@
+functions
+why functions
+funtion call stack
+pass by value concept
+declaration and definition of functions
+write a function for
+    printing Babbar n times
+    add 2 numbers
+    maximum number from 3 numbers
+    counting from 1 to n
+    student and grade problem
+    sum of all numbers upto n
+    sum of even numbers upto n
+
 meaning of return 0, 1, -1 in c++
+    https://www.geeksforgeeks.org/return-0-vs-return-1-in-c/
 parameters in main function
+    https://www.ibm.com/docs/en/zos/2.2.0?topic=functions-main-function
 write a function to 
     display area of circle
+        HOMEWORK / area of circle.cpp
     find number is even or odd
+        HOMEWORK / even or odd number.cpp
     find factorial of a number
+        HOMEWORK / factorial of a number.cpp
     check number is prime or not
+        HOMEWORK / primt number or not.cpp
     print all prime numbers from 1 to n
+        HOMEWORK / print all prime numbers from 1 to n.cpp
     reverse an integer
+        HOMEWORK / reverse an integer.cpp
     set ith bit
+        HOMEWORK / set ith bit of a number.cpp
     convert celsius to fahrenheit
+        HOMEWORK / convert celsius to fahrenheit.cpp

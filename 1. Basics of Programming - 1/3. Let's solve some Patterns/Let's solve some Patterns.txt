@@ -1,15 +1,12 @@
-conditions
-operators
-    arithmatic
-    relational
-    assignment
-    logical
-loop
+conditionals    if  else if  else
+loops
+    for loop
+    what terms are necessary in for loop
 patterns
 
 HOMEWORK
-cin in if(cin)
-cout in if(cout)
+cin in if(cin) and cout in if(cout)
+    Homework / cin and cout in if.cpp
 full pyramid pattern
       *
      * *
@@ -19,5 +16,4 @@ full inverted pyramid pattern
      * *
       *
 numeric full pyramid pattern    2:10:21
-    
 numeric hollow full pyramid pattern    2:10:28

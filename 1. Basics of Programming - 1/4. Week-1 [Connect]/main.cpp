@@ -32,13 +32,6 @@ int main(){
         cout<<endl<<'\n';
     */
 
-    /*// overflow case
-        short s1 = 32767;
-        short s2 = 10;
-        short s = s1+s2;
-        cout<<s;
-    */
-
     // addition and subtraction
         /*int a = 5;
         char b = 'd';

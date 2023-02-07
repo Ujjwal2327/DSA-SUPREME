@@ -94,13 +94,14 @@ int main(){
         printName();
     */
     
-    /*// variables scope
+    /*// pass by value concept
         int a = 5;
         printNumber(a);
         cout << a << '\n';
     */
 
     /*// declaration and definition
+    // add 2 numbers
         int a;
         cin>>a;
         int b;

@@ -187,7 +187,7 @@ int main(){
         cout << b << '\n';
     */
 
-    // switch case
+    /*// switch case
         int val;
         cin>>val;
         switch(val+1){
@@ -207,13 +207,7 @@ int main(){
             default:
                 cout << "Ujjwal" <<'\n';
         }
-
-
-
-
-
-
-
+    */
 
     return 0;
 }

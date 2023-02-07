@@ -1,4 +1,7 @@
 thought process to solve a question
+using computer to solve a program
+flowchart
+pseudocode
 flowchart and pseudocode
     give difference of 2 numbers
     print multiplication of 2 numbers
@@ -25,4 +28,3 @@ make flowchart and pseudocode of following
     valid triangle or not
     printing 1 to N but only even numbers
     print max of 3 numbers
-    

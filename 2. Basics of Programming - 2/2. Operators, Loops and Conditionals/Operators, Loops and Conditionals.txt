@@ -1,8 +1,19 @@
+patterns
+bitwise operators   & | ~
+left and right shift operators
+pre / post -> increament / decreament operators
+break and continue
+variable scoping
+    declaration, initialization, updatation
+    redefination is not allowed
+switch case
+
 HOMEWORK
 a=5;
 cout<<(++a)*(++a);
-
+    https://gynvael.coldwind.pl/?id=372
 what type of expression and datatype can be given to switch expression
+    https://www.geeksforgeeks.org/interesting-facts-about-switch-statement-in-c/
 can we use continue in switch case
     no
 can we add operator in switch case

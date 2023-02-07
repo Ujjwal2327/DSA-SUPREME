@@ -18,7 +18,7 @@ int main(){
         cout<<"value of flag is " << flag << endl;
     */
 
-    /*// to check char range
+    /*// to check char range    compiler dependent
         char ch2 = 25;
         cout<<"value of ch2 is " << ch2 << endl;
 
