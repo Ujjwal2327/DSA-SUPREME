@@ -2,6 +2,7 @@ functions
 why functions
 funtion call stack
 pass by value concept
+functions order
 declaration and definition of functions
 write a function for
     printing Babbar n times
