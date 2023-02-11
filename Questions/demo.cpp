@@ -7,9 +7,10 @@ int main(){
     cout << (++a) * (++a)<<'\n';
     */
 
-    switch (2)
-    {
-
+    int n=10;
+    cout<<n%10;
+    if(n%10){
+        cout<<"hi\n";
     }
 
     return 0;

@@ -1,0 +1,27 @@
+declaration
+initialization
+making array at runtime
+index and access in array
+taking input in array
+take n elements and print their doubles
+array with input values and make all values to 1
+functions and array
+linear search function
+linear search without function
+count 0s and 1s in array
+maximum number in an array
+minimum number in an array
+print extremes of an array
+reverse an array
+
+HOMEWORK
+memset function use and apply in C++
+    initialize all array values with 0 or -1 (not work on other values)
+    memset(arr, o/-1, sizeof(arr));
+    https://www.geeksforgeeks.org/memset-in-cpp/
+sizeof(arr);
+    initially 0
+3 ways to implement swap function
+    using + -
+    using temp variable
+    using xor (IMP)

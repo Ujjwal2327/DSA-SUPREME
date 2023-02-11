@@ -12,3 +12,10 @@ meaning of return 0, 1, -1 in c++
 
 parameters in main function
     https://www.ibm.com/docs/en/zos/2.2.0?topic=functions-main-function
+
+right shift in negative number
+    https://learn.microsoft.com/en-us/cpp/cpp/left-shift-and-right-shift-operators-input-and-output?view=msvc-170 
+
+memset function
+    https://www.geeksforgeeks.org/memset-in-cpp/
+

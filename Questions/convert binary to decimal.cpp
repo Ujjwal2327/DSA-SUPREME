@@ -2,14 +2,29 @@
 
 // https://www.geeksforgeeks.org/program-binary-decimal-conversion/
 
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
 int binaryToDecimal(int b){
     int ans=0;
-    int c=0;
+    int i=0;
     while(b){
-        ans += (b % 10) * (1 << c++);
+        // rightmost bit
+        int bit = b%10;
+        ans += bit * pow(2,i++);
+        b/=10;
+    }
+    return ans;
+}
+
+int binaryToDecimal2(int b){
+    int ans=0;
+    int i=0;
+    while(b){
+        int placeValue = 1 << i++;
+        // if rightmost bit is 1
+        if(b%10)
+            ans += placeValue;
         b/=10;
     }
     return ans;
@@ -20,6 +35,7 @@ int main(){
     int n;
     cin>>n;
     cout << binaryToDecimal(n) << '\n';
+    cout << binaryToDecimal2(n) << '\n';
 
     return 0;
 }

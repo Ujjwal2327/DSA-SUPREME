@@ -1,0 +1,26 @@
+vector
+    declaration
+    initialization
+    arr.size();
+    arr.capacity();
+    arr.push_back(value);
+    arr.pop_back();
+    sizeof(arr);
+find unique element
+find union of 2 arrays having no duplicate
+find intersection of 2 arrays
+for each loop
+    for(auto i:arr)
+print all pairs of a vector
+pairSum    print all pairs with a given sum and array
+tripletSum   print all triplets with a given sum and arrays
+quadSum   print all det of 4 elements with a given sum and array
+sort 0s and 1s   dutch national flag
+
+HOMEWORK
+find union of 2 arrays
+left rotate an array by 1 element
+majority element in an array
+buy and sell stock level 1
+dutch national flag
+    https://www.geeksforgeeks.org/3-way-quicksort-dutch-national-flag/
