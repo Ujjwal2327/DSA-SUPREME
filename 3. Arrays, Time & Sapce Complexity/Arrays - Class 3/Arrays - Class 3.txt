@@ -1,0 +1,37 @@
+2D arrays
+    declaration
+    how it store in memory
+    mapping of 2D array in memory
+    initialization
+    row-wise access
+    col-wise access
+    mapping formula
+    2D arrays and functions
+    taking row wise input
+    taking col wise input
+    print row sum
+    print col sum
+    linear search in a 2D array
+    maximum and minimum elements in an array
+    transpose of any rectangular matrix
+    transpose of a square matrix
+2D vector
+    declaration
+    how it store in memory
+    inserion
+    number of rows and columns
+    row-wise access in 2D vector if number of elements in 1D vector are different
+    initialization
+        vector<vector<int>> arr (3, vector<int>(5,101));
+    
+HOMEWORK
+sort 0s, 1s and 2s
+move all -ve numbers to one side of an array
+find duplicate in an array
+find missing element in an array
+find first repeating element in an array
+find common element in 3 arrays
+factorial of large number
+rotate by 90 deg
+spiral print
+wave print
