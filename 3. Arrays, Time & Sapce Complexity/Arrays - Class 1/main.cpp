@@ -123,7 +123,7 @@ int main(){
         cout<<'\n';
     */
 
-    /*// array with input values and make all values to 1
+    /*// make all items of an array to 1
         int arr[500];
         int n;
         cin>>n;

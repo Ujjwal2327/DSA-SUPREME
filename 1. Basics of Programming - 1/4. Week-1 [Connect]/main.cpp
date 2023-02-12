@@ -60,17 +60,5 @@ int main(){
             cout<<"hi\n";
         */
     
-    // patterns
-        
-
-
-
-
-
-
-
-
-
-
     return 0;
 }

@@ -4,7 +4,7 @@ making array at runtime
 index and access in array
 taking input in array
 take n elements and print their doubles
-array with input values and make all values to 1
+make all items of an array to 1
 functions and array
 linear search function
 linear search without function

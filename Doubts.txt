@@ -1,5 +1,6 @@
 w2 l2 homework
     a=5;
     cout<<(++a)*(++a);
+    https://gynvael.coldwind.pl/?id=372
 
-convert celsius to fah  precision doubt for input 10.9872
+convert celsius to fah      precision doubt for input 10.9872

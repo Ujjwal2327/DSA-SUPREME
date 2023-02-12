@@ -1,3 +1,7 @@
+// left rotate an array by 1 element
+
+// https://www.codingninjas.com/codestudio/problems/left-rotate-an-array-by-one_5026278?leftPanelTab=1
+
 #include<iostream>
 #include<vector>
 using namespace std;

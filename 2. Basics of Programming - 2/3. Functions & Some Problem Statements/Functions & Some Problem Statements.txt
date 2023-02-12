@@ -24,7 +24,7 @@ write a function to
         HOMEWORK / even or odd number.cpp
     find factorial of a number
         HOMEWORK / factorial of a number.cpp
-    check number is prime or not
+    prime number or not
         HOMEWORK / primt number or not.cpp
     print all prime numbers from 1 to n
         HOMEWORK / print all prime numbers from 1 to n.cpp
