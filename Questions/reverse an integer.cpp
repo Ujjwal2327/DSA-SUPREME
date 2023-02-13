@@ -32,6 +32,9 @@ int main(){
     int ans2 = getReverse2(n);
     cout << ans2 <<'\n';
 
-
     return 0;
 }
+
+/*INPUTS
+1234567
+*/

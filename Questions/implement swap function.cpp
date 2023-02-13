@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 
+// using + -
 void swap1(int a, int b){
     a = a + b;
     b = a - b;
@@ -8,6 +9,7 @@ void swap1(int a, int b){
     cout<<a<<' '<<b<<'\n';
 }
 
+// using temporary variable
 void swap2(int a, int b){
     int temp = a;
     a = b;
@@ -15,11 +17,12 @@ void swap2(int a, int b){
     cout<<a<<' '<<b<<'\n';
 }
 
+// using xor
 void swap3(int a, int b){
     int x = a ^ b;
     int i=0;
     while(x){
-        int curr = 1<<i;
+        int curr = (1<<i);
         // if that bit in x is 1, then that bit is different in a and b
         if(x & curr){
             // change that bit in a
@@ -36,11 +39,16 @@ void swap3(int a, int b){
 
 int main(){
 
-    int a=5;
-    int b=6;
+    int a;
+    int b;
+    cin >> a >> b;
     swap1(a,b);
     swap2(a,b);
     swap3(a,b);
 
     return 0;
 }
+
+/*INPUTS
+5 6
+*/

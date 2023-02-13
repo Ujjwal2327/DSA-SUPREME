@@ -1,3 +1,7 @@
+// https://leetcode.com/problems/two-sum/
+
+// https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -29,3 +33,9 @@ int main(){
 
     return 0;
 }
+
+/*INPUTS
+9
+10 20 30 40 50 60 70 80 90
+100
+*/

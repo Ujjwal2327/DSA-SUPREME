@@ -3,6 +3,7 @@
 #include<iostream>
 using namespace std;
 
+// print digits in reverse order
 void numToDigits(int n){
     while(n){
         int rem = n % 10;
@@ -12,6 +13,7 @@ void numToDigits(int n){
     cout<<'\n';
 }
 
+// print digits in reverse order
 void numToDigits2(int n){
     for( ; n>0; n=n/10){
         int rem = n % 10;
@@ -28,3 +30,7 @@ int main(){
 
     return 0;
 }
+
+/*INPUTS
+12345
+*/

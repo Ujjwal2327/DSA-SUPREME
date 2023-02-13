@@ -1,3 +1,5 @@
+// take n numbers and print their doubles
+
 #include<iostream>
 using namespace std;
 
@@ -20,3 +22,8 @@ int main(){
 
     return 0;
 }
+
+/*INPUTS
+5
+10 20 30 40 50
+*/

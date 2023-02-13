@@ -1,4 +1,4 @@
-// print extremes elements of an array and come towards center
+// print extreme elements of an array and come towards center
 
 #include<iostream>
 using namespace std;

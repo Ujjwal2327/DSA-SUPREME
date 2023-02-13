@@ -7,6 +7,7 @@ void printVector(vector<int>arr){
     }
 }
 
+// ans can also contains duplicates
 void findIntersection(vector<int>arr1, vector<int>arr2){
     vector<int>ans;
     for(int i=0; i<arr1.size(); i++){
@@ -30,14 +31,22 @@ int main(){
     for(int i=0; i<m; i++){
         cin >> arr1[i];
     }
-    cout<<"hi\n";
+
     int n;
     cin>>n;
     vector<int>arr2(n);
     for(int i=0; i<n; i++){
         cin >> arr2[i];
     }
+
     findIntersection(arr1, arr2);
 
     return 0;
 }
+
+/*INPUTS
+6
+1 2 3 3 4 5
+6
+1 3 5 3 3 4
+*/

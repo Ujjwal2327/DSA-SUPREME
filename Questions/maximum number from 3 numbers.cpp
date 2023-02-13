@@ -19,3 +19,7 @@ int main(){
 
     return 0;
 }
+
+/*INPUTS
+3 5 4
+*/

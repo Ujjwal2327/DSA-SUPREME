@@ -1,3 +1,5 @@
+// sum of all numbers from 1 to n
+
 #include<iostream>
 using namespace std;
 
@@ -18,3 +20,7 @@ int main(){
 
     return 0;
 }
+
+/*INPUTS
+10
+*/

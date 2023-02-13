@@ -2,7 +2,7 @@
 
 // https://www.geeksforgeeks.org/c-program-to-check-prime-number/
 
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
 
 bool isPrime(int n){
@@ -34,6 +34,14 @@ bool isPrime3(int n){
     return true;
 }
 
+bool isPrime4(int n){
+    for(int i=2; i<=sqrt(n); i++){
+        if(n%i==0)
+            return false;
+    }
+    return true;
+}
+
 int main(){
 
     int n;
@@ -56,6 +64,16 @@ int main(){
     else
         cout<<"not a prime"<<'\n';
 
+    // isPrimw4
+    if(isPrime4(n))
+        cout<<"prime"<<'\n';
+    else
+        cout<<"not a prime"<<'\n';
+
 
     return 0;
 }
+
+/*INPUTS
+9
+*/

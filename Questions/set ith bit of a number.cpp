@@ -7,9 +7,9 @@ using namespace std;
 
 int setIthBit(int n, int i){
     // 1 left shift i times
-    int num = 1 << i;
-    // do or of given number and num
-    int ans = n | num;
+    int val = (1 << i);
+    // do OR of given number and val
+    int ans = n | val;
     return ans;
 }
 
@@ -20,6 +20,10 @@ int main(){
     int ans = setIthBit(n, i);
     cout << ans << '\n';
 
-
     return 0;
 }
+
+/*INPUTS
+5
+3
+*/

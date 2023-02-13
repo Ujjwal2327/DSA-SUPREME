@@ -43,3 +43,7 @@ int main(){
 
     return 0;
 }
+
+/*INPUTS
+70
+*/

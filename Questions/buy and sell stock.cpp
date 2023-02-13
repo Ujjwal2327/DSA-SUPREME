@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/896257751/
+// https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 // https://www.geeksforgeeks.org/stock-buy-sell/
 
@@ -6,6 +6,7 @@
 #include<vector>
 using namespace std;
 
+// brute force
 int maxProfit(vector<int>arr){
     int n = arr.size();
     int ans = 0;
@@ -19,6 +20,7 @@ int maxProfit(vector<int>arr){
     return ans;
 }
 
+// optimised
 int maxProfit2(vector<int>& prices) {
     int n = prices.size();
     // maxi is maximum element
@@ -50,3 +52,8 @@ int main(){
 
     return 0;
 }
+
+/*INPUTS
+6
+7 1 5 3 6 4
+*/

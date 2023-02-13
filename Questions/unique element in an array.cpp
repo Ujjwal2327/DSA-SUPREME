@@ -24,3 +24,8 @@ int main(){
 
     return 0;
 }
+
+/*INPUTS
+7
+1 6 3 3 5 1 6
+*/

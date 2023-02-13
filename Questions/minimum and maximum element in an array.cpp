@@ -4,6 +4,12 @@
 #include<limits.h>
 using namespace std;
 
+void inputArray(int arr[], int n){
+    for(int i=0; i<n; i++){
+        cin>>arr[i];
+    }
+}
+
 pair<int,int> getMinMax(int arr[], int n){
     int maxi = INT_MIN;
     int mini = INT_MAX;
@@ -16,13 +22,19 @@ pair<int,int> getMinMax(int arr[], int n){
     return {mini, maxi};
 }
 
-
 int main(){
 
-    int arr[] = {2,4,6,1,3,7,9,12,56,43,21};
-    int n = 11;
+    int n;
+    cin>>n;
+    int arr[500];
+    inputArray(arr, n);
     pair<int,int>ans = getMinMax(arr, n);
     cout << ans.first << ' ' << ans.second << '\n';
 
     return 0;
 }
+
+/*INPUTS
+11
+2 4 6 1 3 7 9 12 56 43 21
+*/

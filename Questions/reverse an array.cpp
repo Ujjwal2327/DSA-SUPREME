@@ -3,6 +3,12 @@
 #include<iostream>
 using namespace std;
 
+void inputArray(int arr[], int size){
+    for(int i=0; i<size; i++){
+        cin>>arr[i];
+    }
+}
+
 void reverseArray(int arr[], int n){
     int s=0;
     int e=n-1;
@@ -20,10 +26,17 @@ void printArray(int arr[], int size){
 
 int main(){
 
-    int arr[] = {10,20,30,40,50,60,70};
-    int n = 7;
+    int n;
+    cin>>n;
+    int arr[500];
+    inputArray(arr, n);
     reverseArray(arr, n);
     printArray(arr, n);
 
     return 0;
 }
+
+/*INPUTS
+7
+10 20 30 40 50 60 70
+*/

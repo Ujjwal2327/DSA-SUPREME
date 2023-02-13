@@ -1,3 +1,6 @@
 dutch national flag
     https://www.geeksforgeeks.org/3-way-quicksort-dutch-national-flag/
 
+intersection of 2 arrays
+    https://leetcode.com/problems/intersection-of-two-arrays/
+

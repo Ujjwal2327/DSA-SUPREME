@@ -1,4 +1,4 @@
-// https://leetcode.com/problems/majority-element/submissions/896238894/
+// https://leetcode.com/problems/majority-element/
 
 // https://www.geeksforgeeks.org/majority-element/
 
@@ -37,3 +37,8 @@ int main(){
 
     return 0;
 }
+
+/*INPUTS
+7
+2 2 9 3 3 2 2
+*/

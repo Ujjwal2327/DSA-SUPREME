@@ -26,3 +26,7 @@ int main(){
 
     return 0;
 }
+
+/*INPUTS
+123456789
+*/

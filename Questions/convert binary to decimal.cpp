@@ -11,7 +11,7 @@ int binaryToDecimal(int b){
     while(b){
         // rightmost bit
         int bit = b%10;
-        ans += bit * pow(2,i++);
+        ans += bit * pow(2,i++);        // pow(2,i++) is placeValue
         b/=10;
     }
     return ans;
@@ -21,7 +21,7 @@ int binaryToDecimal2(int b){
     int ans=0;
     int i=0;
     while(b){
-        int placeValue = 1 << i++;
+        int placeValue = 1 << (i++);
         // if rightmost bit is 1
         if(b%10)
             ans += placeValue;
@@ -39,3 +39,7 @@ int main(){
 
     return 0;
 }
+
+/*INPUTS
+101101
+*/

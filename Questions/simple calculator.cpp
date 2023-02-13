@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-void simpleCalculator(int num1, int num2, char oper){
+void simpleCalculator(float num1, float num2, char oper){
     switch (oper) {
         case '+':
             cout << num1 << " + " << num2 << " = " << num1 + num2;
@@ -35,3 +35,9 @@ int main() {
 
     return 0;
 }
+
+/*INPUTS
+/
+1.3
+9.2
+*/

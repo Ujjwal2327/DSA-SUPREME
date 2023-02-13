@@ -1,3 +1,5 @@
+// convert the temperature from celsius to fahrenheit
+
 #include<iostream>
 using namespace std;
 
@@ -14,3 +16,7 @@ int main(){
 
     return 0;
 }
+
+/*INPUTS
+10.9872
+*/

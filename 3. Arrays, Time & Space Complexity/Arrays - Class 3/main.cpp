@@ -68,6 +68,7 @@ void getMinMax(int arr[][3], int rows, int cols){
     cout<<mini<<' '<<maxi<<'\n';
 }
 
+// transpose of any rectangular matrix
 void transpose(int arr[][500], int rows, int cols, int ans[][500]){
     for(int i=0; i<rows; i++){
         for(int j=0; j<cols; j++){
@@ -76,6 +77,7 @@ void transpose(int arr[][500], int rows, int cols, int ans[][500]){
     }
 }
 
+// transpose of a square matrix
 void transpose2(int arr[][500], int size){
     for(int i=0; i<size; i++){
         for(int j=0; j<i; j++){
@@ -213,7 +215,7 @@ int main(){
 
         // row-wise access in 2D vector if number of elements in 1D vector are different
             for(int i=0; i<arr.size(); i++){
-                for(int j=0; j<arr[i].size(); j++){
+                for(int j=0; j<arr[i].size(); j++){     // arr[i].size()
                     cout<<arr[i][j]<<' ';
                 }
                 cout<<'\n';

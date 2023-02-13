@@ -25,3 +25,8 @@ int main(){
     
     return 0;
 }
+
+/*INPUTS
+4
+10 20 30 40
+*/

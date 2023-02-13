@@ -1,4 +1,4 @@
-// convert digits to a number
+// convert given digits to a number
 
 #include<iostream>
 using namespace std;
@@ -22,3 +22,8 @@ int main(){
 
     return 0;
 }
+
+/*INPUTS
+5
+1 2 3 4 5
+*/
