@@ -1,0 +1,18 @@
+binary search in array
+    bool ans = binary_search(arr, arr+size, target);
+
+lower_bound in array
+    auto ans = lower_bound(arr, arr+size, target);
+
+upper_bound in array
+    auto ans = upper_bound(arr, arr+size, target);
+
+
+binary search in vector
+    bool ans = binary_search(arr.begin(), arr.end(), target);
+
+lower_bound in vector
+    auto ans = lower_bound(arr.begin(), arr.end(), target);
+
+upper_bound in vector
+    auto ans = upper_bound(arr.begin(), arr.end(), target);

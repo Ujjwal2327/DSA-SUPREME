@@ -4,3 +4,5 @@ dutch national flag
 intersection of 2 arrays
     https://leetcode.com/problems/intersection-of-two-arrays/
 
+peak element in an array in Questions
+    https://leetcode.com/problems/peak-index-in-a-mountain-array/

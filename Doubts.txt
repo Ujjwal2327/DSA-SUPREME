@@ -7,3 +7,9 @@ convert celsius to fah      why only upto 3 precision for input 10.9872
 
 mistake in convert decimal to binary.cpp    decimalToBinary2
 
+peak element in a mountain array in Questions
+
+pivot in sorted rotated array in Questions
+
+why precision is only upto 5 digits in sqrt of a number.cpp in Questions
+

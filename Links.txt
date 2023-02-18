@@ -19,3 +19,8 @@ right shift in negative number
 memset function
     https://www.geeksforgeeks.org/memset-in-cpp/
 
+iterator
+    https://www.geeksforgeeks.org/iterators-c-stl/
+
+auto keyword
+    https://www.geeksforgeeks.org/type-inference-in-c-auto-and-decltype/

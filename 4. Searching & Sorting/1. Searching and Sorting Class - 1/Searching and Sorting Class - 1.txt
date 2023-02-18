@@ -1,0 +1,20 @@
+binary search
+binary search in STL
+find first occurence of an element in an array
+first and last occurence in sorted array using STL
+total number of occurences in sorted array
+find peak element in a mountain array   (IMP)
+
+
+HOMEWORK
+issue in mid = s/2 + e/2;
+    if both s and e are odd, mid gives wrong index
+find last occurence of an element in an array
+iterator and auto keyword
+    https://www.geeksforgeeks.org/iterators-c-stl/
+    https://www.geeksforgeeks.org/type-inference-in-c-auto-and-decltype/
+find missing element
+    
+find pivot index in sorted rotated array using BS
+search in a sorted rotated array
+sqrt using BS

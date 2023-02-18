@@ -1,0 +1,10 @@
+find pivot in sorted rotated array
+search in rotated sorted array
+integer sqrt of a number
+double sqrt of a number
+binary search in matrix
+
+HOMEWORK
+search in a nearly sorted array in log time
+division of 2 numbers using binary search
+find odd occuring element using BS
