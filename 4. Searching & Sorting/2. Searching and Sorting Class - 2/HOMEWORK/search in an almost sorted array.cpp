@@ -1,5 +1,7 @@
 // https://www.geeksforgeeks.org/search-almost-sorted-array/
 
+// every element in ith position in sorted array will found in i, i+1 or i-1 position in nearly sorted array
+
 #include<iostream>
 #include<vector>
 using namespace std;
