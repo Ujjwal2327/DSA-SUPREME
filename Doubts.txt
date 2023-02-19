@@ -8,8 +8,10 @@ convert celsius to fah      why only upto 3 precision for input 10.9872
 mistake in convert decimal to binary.cpp    decimalToBinary2
 
 peak element in a mountain array in Questions
+    https://leetcode.com/problems/peak-index-in-a-mountain-array/
 
 pivot in sorted rotated array in Questions
-
+    https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
+    
 why precision is only upto 5 digits in sqrt of a number.cpp in Questions
 
