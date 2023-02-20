@@ -4,8 +4,8 @@ find odd occuring element
 
 HOMEWORK
 find division upto given precision
-find pair with diff 'k' in an array
-find 'k' closest element to a given value
+find pairs with diff 'k' in an array
+find k closest elements to a given value in a sorted array
 exponential search
 unbounded BS
 adv BS questions

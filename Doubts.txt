@@ -14,4 +14,5 @@ pivot in sorted rotated array in Questions
     https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
     
 why precision is only upto 5 digits in sqrt of a number.cpp in Questions
+    also in divide 2 numbers upto given precision using binary search.cpp in Questions
 
