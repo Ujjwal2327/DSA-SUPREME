@@ -6,13 +6,19 @@ w2 l2 homework
 convert celsius to fah      why only upto 3 precision for input 10.9872
 
 mistake in convert decimal to binary.cpp    decimalToBinary2
-
-peak element in a mountain array in Questions
-    https://leetcode.com/problems/peak-index-in-a-mountain-array/
-
-pivot in sorted rotated array in Questions
-    https://www.geeksforgeeks.org/search-an-element-in-a-sorted-and-pivoted-array/
     
 why precision is only upto 5 digits in sqrt of a number.cpp in Questions
     also in divide 2 numbers upto given precision using binary search.cpp in Questions
+
+Why all outputs are different In line 153, for loop in line 155, and line 160 ?
+    5. Char Arrays & Strings\1. Char Arrays & Strings - Class 1\main.cpp\overflow
+
+why i cant input for 2nd time 
+    5. Char Arrays & Strings\1. Char Arrays & Strings - Class 1\main.cpp\string and taking input
+
+TC of removeOccurrences
+    C:\Users\ujjwa\Desktop\DSA Supreme\5. Char Arrays & Strings\2. Char Arrays & Strings - Class 2\main.cpp
+
+TC of validPalindromeII
+    C:\Users\ujjwa\Desktop\DSA Supreme\5. Char Arrays & Strings\2. Char Arrays & Strings - Class 2\main.cpp
 

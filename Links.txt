@@ -24,3 +24,10 @@ iterator
 
 auto keyword
     https://www.geeksforgeeks.org/type-inference-in-c-auto-and-decltype/
+
+getline
+    https://www.geeksforgeeks.org/getline-string-c/
+
+max_element
+    https://www.geeksforgeeks.org/max_element-in-cpp/
+

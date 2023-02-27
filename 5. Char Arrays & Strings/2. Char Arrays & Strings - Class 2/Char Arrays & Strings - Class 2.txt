@@ -1,0 +1,34 @@
+Remove All Adjacent Duplicates In String
+    https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+Remove All Occurrences of a Substring
+    https://leetcode.com/problems/remove-all-occurrences-of-a-substring/
+Valid Palindrome II
+    https://leetcode.com/problems/valid-palindrome-ii/
+Minimum Time Difference
+    https://leetcode.com/problems/minimum-time-difference/
+Palindromic Substrings
+    https://leetcode.com/problems/palindromic-substrings/
+
+HOMEWORK
+implement s.find, s.erase
+print all substrings of a string
+
+242 valid anagram
+917 reverse only letters
+14 longest common prefix
+345 reverse vowels of string
+isomorphic strings
+reorganise strings
+group anagrams
+longest palindromic substrings
+find index of first occ in a string
+string to integer
+string compression
+integer to roman
+zigzag conversion
+
+QUESTIONS WITHOUT SOLUTIONS
+179 largest number
+791 custom sort string
+953 verify alien dictionary
+524 longest word in dictionary through deleting

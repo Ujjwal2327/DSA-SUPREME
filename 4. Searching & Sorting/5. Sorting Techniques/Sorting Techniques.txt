@@ -1,0 +1,10 @@
+selection sort
+insertion sort
+bubble sort
+
+HOMEWORK
+stable and unstable algorithm and which sort is stable and unstable
+    order preserve
+make table of normal, worst, best case TC and SC of all sorts
+how to sort array using sort function
+algorithm behind implementation of sort function

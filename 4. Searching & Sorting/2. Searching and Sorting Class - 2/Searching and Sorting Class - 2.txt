@@ -1,4 +1,4 @@
-find pivot in sorted rotated array
+find pivot in sorted rotated array      having no duplicates
 search in rotated sorted array
 integer sqrt of a number
 double sqrt of a number

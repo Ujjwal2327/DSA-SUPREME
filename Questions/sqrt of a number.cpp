@@ -11,6 +11,7 @@ int sqrtInt(int n){
 
     while(s<=e){
         long long prod = mid*mid;
+        // for overflow, use mid==n/mid
         if(prod==n)
             return mid;
         else if(prod<n){

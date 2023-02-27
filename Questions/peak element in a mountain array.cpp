@@ -14,12 +14,10 @@ int peakElement(vector<int>arr){
 
     while(s<e){
         int element = arr[mid];
-        // we cant apply arr[mid-1] condition as mid-1 can be equal to <0     if mid-1<0 => mid==0 => (s==0 && e==0) || (s==0&&e==1) => 2nd case can come inside loop
-        if(element < arr[mid+1])    // left increasing sorted array excluding peak element
-                                    // mid+1 cannot be equal to n     if mid+1==n => mid==n-1 => s==e==n-1 => s==e => loop condition fails
-            s = mid + 1;
-        else    // peak element or right decreasing sorted array
+        if(mid+1<n && element > arr[mid+1])    // peak element or right decreasing sorted array
             e = mid;
+        else    // left increasing sorted array excluding peak element
+            s = mid + 1;
 
         mid = s + (e-s)/2;
     }
