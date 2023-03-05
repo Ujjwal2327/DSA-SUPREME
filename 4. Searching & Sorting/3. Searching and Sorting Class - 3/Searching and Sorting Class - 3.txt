@@ -12,5 +12,5 @@ adv BS questions
     book allocation
     painter partition
     aggressive cows
-    roti / paratha spoj
-    eko spoj
+    EKO spoj
+    PARATA spoj

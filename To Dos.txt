@@ -4,6 +4,12 @@ dutch national flag
 intersection of 2 arrays
     https://leetcode.com/problems/intersection-of-two-arrays/
 
-Week 4 Lecture 3 HOMEWORK Advance Binary search
 Week 4 Lecture 4 HOMEWORK
 Week 5 Lecture 2 HOMEWORK
+
+sort and inbuilt functions of string in files in STL
+
+accumulate function
+*max_element(arr, arr+n);
+
+how to take input any number of elements in a vector

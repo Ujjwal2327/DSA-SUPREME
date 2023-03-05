@@ -9,17 +9,14 @@ int firstOccurence(vector<int>arr, int target){
     int s = 0;
     int e = n-1;
     int mid = s + (e-s)/2;
-    int ans = -1;   // if not found, return -1
+    int ans = n;   // if not found, return n (work as lower_bound inbuilt function)
 
     while(s<=e){
         int element = arr[mid];
-
-        if(target == element){
+        if(target <= element){
             ans = mid;      // store in ans
             e = mid - 1;    // check in left
         }
-        else if(target < mid)
-            e = mid - 1;
         else
             s = mid + 1;
         
@@ -35,16 +32,19 @@ int lastOccurence(vector<int>arr, int target){
     int s = 0;
     int e = n-1;
     int mid = s + (e-s)/2;
-    int ans = -1;
+    int ans = n;
 
     while(s<=e){
         int element = arr[mid];
+        // cout<<s<<' '<<mid<<' '<<e<<'\n';
         if(target == element){
             ans = mid;      // store in ans
             s = mid + 1;    //check in right
         }
-        else if(target < element)
-            e = mid -1;
+        else if(target < element){
+            ans = mid;
+            e = mid - 1;
+        }
         else
             s = mid + 1;
         
@@ -85,7 +85,7 @@ int main(){
         int first = lowerBound - arr.begin();
         cout << first << '\n';
         auto upperBound = upper_bound(arr.begin(), arr.end(), target);
-        int last = upperBound - arr.begin() -1;
+        int last = upperBound - arr.begin();
         cout << last << '\n';
     */
 
@@ -96,4 +96,8 @@ int main(){
 8
 1 2 4 4 4 4 4 6
 4
+
+8
+1 2 4 4 4 4 4 6
+5
 */

@@ -1,10 +1,15 @@
 // https://www.geeksforgeeks.org/exponential-search/
+/*application
+    unbounded binary search
+        infinite sorted array
+    where x is near starting of an array
+*/
 
 #include<iostream>
 #include<vector>
 using namespace std;
 
-// TC-O(logn)
+// TC-O(logm)   m is the index where element will found
 int binarySearch(vector<int>arr, int target, int s, int e){
     int n = arr.size();
     int mid = s + (e-s)/2;
