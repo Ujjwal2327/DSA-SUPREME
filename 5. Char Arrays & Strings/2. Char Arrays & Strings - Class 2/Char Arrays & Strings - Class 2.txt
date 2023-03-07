@@ -20,7 +20,7 @@ print all substrings of a string
 isomorphic strings
 reorganise strings
 group anagrams
-longest palindromic substrings
+longest palindromic substring
 find index of first occ in a string
 string to integer
 string compression

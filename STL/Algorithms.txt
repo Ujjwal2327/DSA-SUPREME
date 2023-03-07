@@ -1,18 +1,59 @@
-binary search in array
+binary search in array      returns boolean
     bool ans = binary_search(arr, arr+size, target);
 
-lower_bound in array
+lower_bound in array        returns iterator
     auto ans = lower_bound(arr, arr+size, target);
 
-upper_bound in array
+upper_bound in array        returns iterator
     auto ans = upper_bound(arr, arr+size, target);
 
 
-binary search in vector
+binary search in vector     returns boolean
     bool ans = binary_search(arr.begin(), arr.end(), target);
 
-lower_bound in vector
+lower_bound in vector       returns iterator
     auto ans = lower_bound(arr.begin(), arr.end(), target);
 
-upper_bound in vector
+upper_bound in vector       returns iterator
     auto ans = upper_bound(arr.begin(), arr.end(), target);
+
+
+sort in array
+    sort(arr, arr + n);
+    sort(arr2, arr2 + n, greater<int>());
+    sort(arr3, arr3 + n, custom comparator function);
+
+sort in vector
+    sort(arr.begin(), arr.end());
+    sort(arr.begin(), arr.end(), greater<int>());
+    sort(arr.begin(), arr.end(), custom comparator function);
+
+sort in array
+    sort(arr.begin(), arr.end());
+    sort(arr.begin(), arr.end(), greater<int>());
+    sort(arr.begin(), arr.end(), custom comparator function);
+
+
+accumulate in array         reutrns value
+    accumulate(arr, arr + n, initial value);
+    accumulate(arr, arr + n, initial value, predicate);
+    
+accumulate in vector        reutrns value
+    accumulate(arr.begin(), arr.end(), initial value);
+    accumulate(arr.begin(), arr.end(), initial value, predicate);
+
+accumulate in string        reutrns value
+    accumulate(s.begin(), s.end(), initial value);
+    accumulate(s.begin(), s.end(), initial value, predicate);
+
+
+max_element in array        returns iterator
+    max_element(arr, arr + n);
+
+max_element in vector       returns iterator
+    max_element(arr.begin(), arr.end());
+
+max_element in string       returns iterator
+    max_element(s.begin(), s.end());
+
+

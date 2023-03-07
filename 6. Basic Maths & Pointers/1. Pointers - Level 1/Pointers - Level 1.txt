@@ -1,0 +1,11 @@
+creating a pointer
+access the value pointer is pointing to
+size of pointer
+bad practice and NULL pointer
+pointer only stores address
+copying a pointer
+
+HOMEWORK
+64 bit system and how much memory location you can show using this
+why sizeof(pointer) is 8
+(both are given in dashboard)

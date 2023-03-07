@@ -7,7 +7,7 @@ variables
 how data is stored (+ve and -ve numbers)
 interesting program     4 chars or 1 int in memory
 signed and unsigned data
-to check char range     compiler dependent
+to check char range     0 to 255
 size0f()
 typecasting
 operators

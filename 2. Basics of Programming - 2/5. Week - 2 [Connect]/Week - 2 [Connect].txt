@@ -1,0 +1,14 @@
+ternary / conditional operator
+print digits of a number
+print number from digits
+print number of set bits
+convert km into miles
+
+HOMEWORK
+right shift in negative number
+    For signed numbers, the sign bit is used to fill the vacated bit positions. In other words, if the number is positive, 0 is used, and if the number is negative, 1 is used.
+    https://learn.microsoft.com/en-us/cpp/cpp/left-shift-and-right-shift-operators-input-and-output?view=msvc-170 
+padding in c++
+typecasting hirarchy
+    typecasting hierarchy in C++ is not an officially defined hierarchy, and different sources may have different interpretations of the hierarchy. 
+    ChatGPT-    use of typecasting in C++

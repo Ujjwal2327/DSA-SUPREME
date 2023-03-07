@@ -1,0 +1,179 @@
+WEEK 1
+flowchart and pseudocode
+    give difference of 2 numbers
+    print multiplication of 2 numbers
+    print average of 2 numbers
+    add 2 numbers by taking input
+    find circumference of a circle
+    average of 3 numbers
+    check number is odd or even
+    student and grade
+    check +ve, -ve or 0
+    print counting from 1 to N
+    add N numbers from user
+    printing 1 to N but only odd numbers
+    multiply 2 numbers by taking input
+    find perimeter of a triangle
+    find simple interest
+    print counting fron N to 1
+    find factorial of a number
+    check prime or not
+    valid triangle or not
+    printing 1 to N but only even numbers
+    print max of 3 numbers
+
+
+WEEK 2
+check prime or not
+a=5;    cout<<(++a)*(++a);
+
+printing Babbar n times
+add 2 numbers
+maximum number from 3 numbers
+counting from 1 to n
+student and grade problem
+sum of all numbers upto n
+sum of even numbers upto n
+
+display area of circle
+find number is even or odd
+find factorial of a number
+prime number or not
+print all prime numbers from 1 to n
+reverse an integer
+set ith bit
+convert celsius to fahrenheit
+
+print digits of a number
+print number from digits
+print number of set bits
+convert km into miles
+
+
+WEEK 3
+linear search in an array
+count 0s and 1s in an array
+maximum number in an array
+minimum number in an array
+print extremes of an array
+reverse an array
+
+find unique element
+find union of 2 arrays having no duplicate
+find intersection of 2 arrays
+print all pairs of a vector
+pairSum    print all pairs with a given sum and array
+tripletSum   print all triplets with a given sum and arrays
+quadSum   print all det of 4 elements with a given sum and array
+sort 0s and 1s   dutch national flag
+
+find union of 2 arrays
+left rotate an array by 1 element
+majority element in an array
+buy and sell stock level 1
+dutch national flag
+
+linear search in a matrix
+maximum and minimum elements in a matrix
+transpose of any rectangular matrix
+transpose of a square matrix
+
+sort 0s, 1s and 2s
+move all -ve numbers to one side of an array
+find duplicate in an array
+find missing element in an array
+find first repeating element in an array
+find common elements in 3 sorted arrays
+    intersection of 3 sorted arrays
+factorial of large number
+rotate by 90 deg
+spiral print
+wave print
+
+
+WEEK 4
+binary search
+binary search in STL
+find first occurence of an element in an array
+first and last occurence in sorted array using STL
+total number of occurences in sorted array
+find peak element in a mountain array   (IMP)
+
+find last occurence of an element in an array
+find missing element
+
+find pivot in sorted rotated array having no duplicates     (IMP)
+search in rotated sorted array
+integer sqrt of a number
+double sqrt of a number
+binary search in matrix
+
+binary search in nearly sorted array
+divide 2 numbers using binary search
+find odd occuring element
+
+find division upto given precision
+find pairs with diff 'k' in an array
+find k closest elements to a given value in a sorted array
+exponential search
+unbounded BS
+adv BS questions
+    book allocation
+    painter partition
+    aggressive cows
+    EKO spoj
+    PARATA spoj
+
+selection sort
+insertion sort
+bubble sort
+
+
+WEEK 5
+reverse a char array
+replace all spaces with @
+pallindrome
+convert to uppercase
+
+Remove All Adjacent Duplicates In String
+Remove All Occurrences of a Substring
+Valid Palindrome II
+Minimum Time Difference
+Palindromic Substrings
+
+242 valid anagram
+917 reverse only letters
+14 longest common prefix
+345 reverse vowels of string
+isomorphic strings
+reorganise strings
+group anagrams
+longest palindromic substring
+find index of first occ in a string
+string to integer
+string compression
+integer to roman
+zigzag conversion
+
+179 largest number
+791 custom sort string
+953 verify alien dictionary
+524 longest word in dictionary through deleting
+
+
+WEEK 6
+count number of prime numbers
+    sieve of eratosthenes theorem / seive theorem
+gcd / hcf and lcm
+    euclid's algo
+exponentiation
+modular exponentiation for large numbers
+
+segmented sieve
+
+scope of variable
+    int* solve(){
+        int a = 5;
+        int *ptr = &a;
+        return ptr;
+    }

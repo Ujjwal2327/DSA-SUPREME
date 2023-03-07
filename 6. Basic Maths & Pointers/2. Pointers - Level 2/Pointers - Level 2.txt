@@ -1,0 +1,13 @@
+arrays
+difference in arrays and pointers
+why is it giving ERROR??
+char arrays and pointers
+char and char pointer
+bad practice
+pointers with functions
+
+HOMEWORK
+read about
+    benifits of topics we learn in this lecture
+    pointer to functions
+        passing functions to another function as an argument

@@ -1,0 +1,21 @@
+count number of prime numbers
+    https://leetcode.com/problems/count-primes/
+    sieve of eratosthenes theorem / seive theorem
+gcd / hcf and lcm
+    euclid's algo
+exponentiation
+modular exponentiation for large numbers
+    https://practice.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1
+
+HOMEWORK
+segmented seive
+    https://www.geeksforgeeks.org/segmented-sieve/
+
+advanced topics (cp scope)
+    pigeon hole
+    catalan number(bst)
+    inclusion - exclusion principle
+    chinese reminder theorem
+    lucas' theorem
+    fermat's theorem
+    probability concepts

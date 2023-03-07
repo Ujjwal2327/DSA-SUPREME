@@ -1,0 +1,9 @@
+HOMEWORK
+return by reference
+scope of variable
+    int* solve(){
+        int a = 5;
+        int *ptr = &a;
+        return ptr;
+    }
+

@@ -1,0 +1,17 @@
+custom comparater in sort function in string
+custom comparater in sort function in vector
+custom comparater in sort function in vector of strings
+hashmap
+
+HOMEWORK
+help ramu
+map
+    at
+    size
+    empty
+    insert
+    clear
+    erase
+    count
+    found
+largest number

@@ -16,9 +16,10 @@ Why all outputs are different In line 153, for loop in line 155, and line 160
 why i cant input for 2nd time 
     5. Char Arrays & Strings\1. Char Arrays & Strings - Class 1\main.cpp\string and taking input
 
-TC of removeOccurrences
-    C:\Users\ujjwa\Desktop\DSA Supreme\5. Char Arrays & Strings\2. Char Arrays & Strings - Class 2\main.cpp
+last line in size of pointer in pointer - level 1
 
-TC of validPalindromeII
-    C:\Users\ujjwa\Desktop\DSA Supreme\5. Char Arrays & Strings\2. Char Arrays & Strings - Class 2\main.cpp
+how to take input any number of elements in a vector without defining size
+
+why is it giving ERROR??
+    6. Basic Maths & Pointers\2. Pointers - Level 2\main.cpp
 

@@ -299,7 +299,7 @@ int main(){
         cout << "str->  " << str << "\n\n";
 
         // str.substr(starting index, number of elements)
-        cout << "str.substr(0,4)->  " << str.substr(1,4) << "\n";
+        cout << "str.substr(1,4)->  " << str.substr(1,4) << "\n";
         cout << "str->  " << str << "\n\n";
 
         // str.compare(str2)        0 if equal      +ve if str[i]>str2[i]   -ve if str[i]<str2[i]

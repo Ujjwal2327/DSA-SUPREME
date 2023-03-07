@@ -1,0 +1,42 @@
+length                      returns value
+    str.length();
+
+
+empty or not                returns 0 if empty , otherwise 1
+    str.empty();
+
+
+push_back
+    str.push_back('char');
+
+
+pop_back
+    str.pop_back();
+
+
+substring                   returns substring
+    str.substr(starting index, number of elements);
+
+
+compare two strings         returns 0 if equal, +ve if str[i]>str2[i], -ve if str[i]<str2[i]
+    str.compare(str2)
+
+
+find                        returns index if found, otherwise string::npos
+    str.find(str2);
+
+
+string npos                 returns highest possible value (max value of unsigned int)
+    string::npos;
+
+
+replace                     modify the original string & returns that string
+    str.replace(starting index, number of chars, str2);
+
+
+erase                       modify the original string & returns that string
+    str.erase(starting index, number of chars);
+
+
+insert                      modify the original string & returns that string
+    str.insert(strating index, str2);
