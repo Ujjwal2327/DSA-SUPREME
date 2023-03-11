@@ -61,6 +61,7 @@ int countPrimes3(int n){
         if(primes[i]){
             ans++;
             for(int j=2*i; j<n; j+=i)
+            // for(int j=i*i; j<n; j+=i)        // will also work
                 primes[j] = false;
         }
     }
@@ -139,8 +140,8 @@ int main(){
         cout << ans2 << '\n';
 
         // sieve of eratosthenes theorem / seive theorem
-        int ans2 = countPrimes3(n);
-        cout << ans2 << '\n';
+        int ans3 = countPrimes3(n);
+        cout << ans3 << '\n';
     */
 
     /*// gcd

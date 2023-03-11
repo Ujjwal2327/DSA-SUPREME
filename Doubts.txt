@@ -23,3 +23,5 @@ how to take input any number of elements in a vector without defining size
 why is it giving ERROR??
     6. Basic Maths & Pointers\2. Pointers - Level 2\main.cpp
 
+what is going on here
+    C:\Users\ujjwa\Desktop\DSA Supreme\6. Basic Maths & Pointers\2. Pointers - Level 2\HOMEWORK\function pointers

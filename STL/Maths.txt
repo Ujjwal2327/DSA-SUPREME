@@ -1,0 +1,11 @@
+INT_MAX
+    2147483647
+
+INT_MIN
+    -2147483648
+
+ceil
+    ceil(2.2);      3
+
+floor
+    floor(2.2);     2

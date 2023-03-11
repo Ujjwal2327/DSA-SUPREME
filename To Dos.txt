@@ -4,13 +4,8 @@ dutch national flag
 intersection of 2 arrays
     https://leetcode.com/problems/intersection-of-two-arrays/
 
-Week 4 Lecture 4 HOMEWORK
-Week 4 Lecture 5 HOMEWORK
 Week 5 Lecture 2 HOMEWORK
 Week 5 Lecture 3 HOMEWORK
-Week 6 Lecture 1 HOMEWORK
-Week 6 Lecture 2 HOMEWORK
-Week 6 Lecture 3 HOMEWORK
-Week 6 Lecture 4 HOMEWORK
+Week 6 Lecture 3 HOMEWORK (segmented sieve)
 
 make a folder of implementations of all inbuilt functions

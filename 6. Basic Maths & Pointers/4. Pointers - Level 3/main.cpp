@@ -23,7 +23,7 @@ int* solve(){
 }
 
 int main(){
-
+    cout<<"Hello";
     /*// multilevel pointers
         int a = 5;
         int *ptr = &a;
@@ -74,22 +74,6 @@ int main(){
         update2(ptr);
         cout << a << '\n';
     */
-
-    /*
-    */
-    // 
-        // int *ptr = solve();
-        // cout << *ptr<<'\n';
-        // cout << ptr<<'\n';
-        
-
-    /*
-    */
-    // 
-
-    /*
-    */
-    // 
 
     return 0;
 }

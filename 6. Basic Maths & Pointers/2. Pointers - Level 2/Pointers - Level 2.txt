@@ -10,4 +10,6 @@ HOMEWORK
 read about
     benifits of topics we learn in this lecture
     pointer to functions
+        points to the address of the first line of the code of the corresponding function they point to
         passing functions to another function as an argument
+        https://www.geeksforgeeks.org/function-pointer-in-cpp/

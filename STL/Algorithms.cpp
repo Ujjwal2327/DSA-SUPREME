@@ -294,7 +294,5 @@ int main(){
         cout << ans << ' ' << index << '\n';
     */
 
-
-
     return 0;
 }

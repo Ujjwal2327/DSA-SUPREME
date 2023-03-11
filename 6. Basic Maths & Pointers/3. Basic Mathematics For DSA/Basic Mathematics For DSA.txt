@@ -1,6 +1,6 @@
 count number of prime numbers
     https://leetcode.com/problems/count-primes/
-    sieve of eratosthenes theorem / seive theorem
+    sieve of eratosthenes theorem / sieve theorem
 gcd / hcf and lcm
     euclid's algo
 exponentiation
@@ -8,7 +8,7 @@ modular exponentiation for large numbers
     https://practice.geeksforgeeks.org/problems/modular-exponentiation-for-large-numbers5537/1
 
 HOMEWORK
-segmented seive
+segmented sieve
     https://www.geeksforgeeks.org/segmented-sieve/
 
 advanced topics (cp scope)

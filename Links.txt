@@ -31,3 +31,9 @@ getline
 max_element
     https://www.geeksforgeeks.org/max_element-in-cpp/
 
+sort
+    https://www.geeksforgeeks.org/internal-details-of-stdsort-in-c/
+
+function pointer
+    https://www.geeksforgeeks.org/function-pointer-in-cpp/
+

@@ -1,0 +1,13 @@
+climb stairs
+    https://leetcode.com/problems/climbing-stairs
+print array
+print reverse array
+maximum and minimum number from an array
+search in string
+find all occurence of key
+number to digits
+integer literal with a leading 0 (IMP)
+
+HOMEWORK
+revise today's lecture
+dryrun on 5 testcases

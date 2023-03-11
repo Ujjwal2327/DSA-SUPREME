@@ -1,0 +1,15 @@
+factorial of given number
+print reverse counting
+print counting from 1 to n
+fibonacci number
+
+HOMEWORK
+factorial
+counting
+reverse counting
+power of 2
+fibonacci series
+climb stairs Leetcode
+print digits of a number
+find maximum and minimum number using recursion
+find element, its count and index in an array
