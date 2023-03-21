@@ -13,7 +13,7 @@ void printVector(vector<int>arr){
     cout << '\n';
 }
 
-// best
+// best and inplace
 void sort0s1sAnd2s(vector<int>arr){
     int n = arr.size();
     int s = 0;
@@ -21,12 +21,12 @@ void sort0s1sAnd2s(vector<int>arr){
     int i = 0;
     while(i<=e){    // = when arr[i] = arr[e] = 0    swap with arr[s]
         if(arr[i]==0){
-            swap(arr[i], arr[s]);   // all values before s is 0
+            swap(arr[i], arr[s]);   // all values before s are 0
             i++;
             s++;
         }
         else if(arr[i]==2){
-            swap(arr[i], arr[e]);   // all values after e is 1
+            swap(arr[i], arr[e]);   // all values after e are 2
             e--;
         }
         else    // if arr[i]==1, goto next element
@@ -63,6 +63,35 @@ void sort0s1sAnd2s2(vector<int>arr){
     printVector(arr);
 }
 
+// not inplace
+void sort0s1sAnd2s3(vector<int>arr){
+    int n = arr.size();
+    int cnt0 = 0;
+    int cnt1 = 1;
+    int cnt2 = 2;
+
+    for(int i=0; i<n; i++){
+        if(arr[i]==0)
+            cnt0++;
+        else if(arr[i]==1)
+            cnt1++;
+        else
+            cnt2++;
+    }
+
+    int i=0;
+    while(cnt0--)
+        arr[i++] = 0;
+
+    while(cnt1--)
+        arr[i++] = 1;
+
+    while(cnt2--)
+        arr[i++] = 2;
+
+    printVector(arr);
+}
+
 int main(){
 
     int n;
@@ -73,6 +102,7 @@ int main(){
     }
     sort0s1sAnd2s(arr);
     sort0s1sAnd2s2(arr);
+    sort0s1sAnd2s3(arr);
 
     return 0;
 }

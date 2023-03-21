@@ -26,6 +26,23 @@ void wavePrint(vector<vector<int>>arr){
     cout << '\n';
 }
 
+void rowWiseWavePrint(vector<vector<int>>arr){
+    int rows = arr.size();
+    int cols = arr[0].size();
+
+    for(int i=0; i<rows; i++){
+        if((i&1)==0){     // for i=0,2,4  go left to right
+            for(int j=0; j<cols; j++)
+                cout << arr[i][j] << ' ';
+        }
+        else{       // for i=1,3,5  go right to left
+            for(int j=cols-1; j>=0; j--)
+                cout << arr[i][j] << ' ';
+        }
+    }
+    cout << '\n';
+}
+
 int main(){
     
     int rows;
@@ -40,6 +57,7 @@ int main(){
     cout<<'\n';
     
     wavePrint(arr);
+    rowWiseWavePrint(arr);
 
     return 0;
 }

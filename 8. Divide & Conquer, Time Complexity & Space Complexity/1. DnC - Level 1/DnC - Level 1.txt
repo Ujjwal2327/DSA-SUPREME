@@ -1,0 +1,29 @@
+merge sort
+quick sort
+
+HOMEWORK
+inplace merge sort
+    merge 2 sorted arrays inplace
+inversion count     (IMP)
+master theorem
+int &arr in function call
+    reference variable pass hua hai ese, not related to array
+merge sort without recursion
+
+RECURSION QUES
+last occ of a char in string
+reverse string
+add 2 strings   (int stored as strings)
+check palindrome
+subarray printing
+
+RECURSION HARD QUES
+recursively remove all occurence of char in a string
+int to english words
+number of digit one
+wild card pattern match
+house robbaery problem
+buy and sell stocks
+perfect square problem
+min cost for tickets
+number of dice roll with target sum

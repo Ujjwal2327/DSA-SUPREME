@@ -1,0 +1,19 @@
+coin change
+    https://leetcode.com/problems/coin-change/
+cut into segments
+    https://www.geeksforgeeks.org/maximize-the-number-of-segments-of-length-p-q-and-r/
+maximum sum of nonadjacent elements in an array
+
+low level system design for interviews
+    system design interview by Alex Xu
+
+HOMEWORK
+house robbery 
+    https://leetcode.com/problems/house-robber/
+
+JUST FOR FUN IF YOU THINK YOU CAN DO MORE
+wild card pattern matching
+regular expression matching
+smallest range in list
+median in a stream
+chicken and buldozer    google kickstart question

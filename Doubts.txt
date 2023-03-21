@@ -25,3 +25,6 @@ why is it giving ERROR??
 
 what is going on here
     C:\Users\ujjwa\Desktop\DSA Supreme\6. Basic Maths & Pointers\2. Pointers - Level 2\HOMEWORK\function pointers
+
+add 2 numbers represented by 2 arrays
+    C:\Users\ujjwa\Desktop\DSA Supreme\Questions

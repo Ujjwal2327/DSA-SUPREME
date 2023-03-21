@@ -1,0 +1,8 @@
+array is sort or not
+binary search in an array
+subsequences of a string
+arithmatic operations on strings
+
+HOMEWORK
+subsequences without recursion
+    bitmasking

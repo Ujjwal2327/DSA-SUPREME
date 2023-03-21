@@ -7,5 +7,6 @@ intersection of 2 arrays
 Week 5 Lecture 2 HOMEWORK
 Week 5 Lecture 3 HOMEWORK
 Week 6 Lecture 3 HOMEWORK (segmented sieve)
+Week 7 HOMEWORK 
 
 make a folder of implementations of all inbuilt functions

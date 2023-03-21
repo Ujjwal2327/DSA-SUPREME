@@ -6,6 +6,14 @@
 #include<vector>
 using namespace std;
 
+void printVector(vector<int>arr){
+    int n = arr.size();
+
+    for(int i:arr)
+        cout << i << ' ';
+    cout << '\n';
+}
+
 void spiralPrint(vector<vector<int>>arr){
     int rows = arr.size();
     int cols = arr[0].size();
@@ -13,39 +21,41 @@ void spiralPrint(vector<vector<int>>arr){
     int rowEnd = rows-1;
     int colStart = 0;
     int colEnd = cols-1;
+    vector<int>ans;
 
     int cnt = 1;
     int total = rows*cols;
     while(cnt<=total){
         // upper row
         for(int j=colStart; cnt<=total && j<=colEnd; j++){
-            cout << arr[rowStart][j] << ' ';
+            ans.push_back(arr[rowStart][j]);
             cnt++;
         }
         rowStart++;
 
         // right col
         for(int i=rowStart; cnt<=total && i<=rowEnd; i++){
-            cout << arr[i][colEnd] << ' ';
+            ans.push_back(arr[i][colEnd]);
             cnt++;
         }
         colEnd--;
 
         // bottom row
         for(int j=colEnd; cnt<=total && j>=colStart; j--){
-            cout << arr[rowEnd][j] << ' ';
+            ans.push_back(arr[rowEnd][j]);
             cnt++;
         }
         rowEnd--;
 
         // left col
         for(int i=rowEnd; cnt<=total && i>=rowStart; i--){
-            cout << arr[i][colStart] << ' ';
+            ans.push_back(arr[i][colStart]);
             cnt++;
         }
         colStart++;
     }
-    cout << '\n';
+
+    printVector(ans);
 }
 
 int main(){

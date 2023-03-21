@@ -23,24 +23,24 @@ void printReverse(vector<int>arr){
 }
 
 // factorial of a large number
-void fact2(int n){
-    vector<int>arr(1,1);
-    // arr will contain the ans in reverse order
+void largeFact(int n){
+    vector<int>ans(1,1);
+    // ans will contain the ans in reverse order
     for(int i=2; i<=n; i++){
-        // multiplication of i to arr(fact(i-1)) to get fact(i)
+        // multiplication of i to ans(fact(i-1)) to get fact(i)
         int carry = 0;
-        for(int ind =0; ind<arr.size(); ind++){
-            int val = arr[ind]*i + carry;
-            arr[ind] = val % 10;
+        for(int ind =0; ind<ans.size(); ind++){
+            int val = ans[ind]*i + carry;
+            ans[ind] = val % 10;
             carry = val / 10;
         }
         while(carry){
-            arr.push_back(carry%10);
+            ans.push_back(carry%10);
             carry = carry/10;
         }
     }
-    // as the ans stored in arr is in reverse order, reverse the number
-    printReverse(arr);
+    // as the ans stored in ans is in reverse order, reverse the number
+    printReverse(ans);
 }
 
 int main(){
@@ -51,7 +51,7 @@ int main(){
     cout << ans << '\n';
 
     cin>>n;
-    fact2(n);
+    largeFact(n);
 
     return 0;
 }

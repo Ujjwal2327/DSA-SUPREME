@@ -7,9 +7,9 @@ using namespace std;
 
 int setIthBit(int n, int i){
     // 1 left shift i times
-    int val = (1 << i);
+    int mask = (1 << i);
     // do OR of given number and val
-    int ans = n | val;
+    int ans = n | mask;
     return ans;
 }
 
