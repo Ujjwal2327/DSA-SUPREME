@@ -1,0 +1,12 @@
+Binary Search
+    
+
+Recursion
+    standard
+
+    either this or that
+        inclusive exclusive (subsequences) patterns
+
+    for loop in recursion
+
+

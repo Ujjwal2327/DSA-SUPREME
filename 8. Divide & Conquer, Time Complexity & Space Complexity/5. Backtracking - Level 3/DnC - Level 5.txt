@@ -1,0 +1,10 @@
+generate parenthesis
+    https://leetcode.com/problems/generate-parentheses/
+Letter Combinations of a Phone Number   (IMP) (asked in Deshaw and arsesium)
+    https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+
+HOMEWORK WITHOUT SOLUTIONS
+letter tile combination
+sum of all subsets
+number of square full arrays
+world break 1

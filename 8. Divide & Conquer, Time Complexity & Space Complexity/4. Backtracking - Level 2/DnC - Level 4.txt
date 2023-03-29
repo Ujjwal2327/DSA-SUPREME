@@ -1,0 +1,3 @@
+n queens
+    https://leetcode.com/problems/n-queens/
+optimised approach for n queens
