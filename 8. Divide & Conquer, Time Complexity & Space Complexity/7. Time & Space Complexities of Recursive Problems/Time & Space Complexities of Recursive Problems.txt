@@ -1,0 +1,36 @@
+linear pattern
+counting                    TC-O(n)    SC-O(n)    (both in pass by value and pass by reference)
+factorial                   TC-O(n)    SC-O(n)    (both in pass by value and pass by reference)
+check is sorted array       TC-O(n)    SC-O(n)    (both in pass by value and pass by reference)
+power of 2                  TC-O(n)    SC-O(n)    (both in pass by value and pass by reference)
+maximum in array            TC-O(n)    SC-O(n)    (both in pass by value and pass by reference)
+minimum in array            TC-O(n)    SC-O(n)    (both in pass by value and pass by reference)
+
+nonlinear / multiple pattern
+fibonacci           TC-O(2^n)    SC-O(n)    (both in pass by value and pass by reference)
+jump stairs         TC-O(2^n)    SC-O(n)    (both in pass by value and pass by reference)
+subsequences        TC-O(2^n)    SC-O(n)    (both in pass by value and pass by reference)     include-exclude
+
+logarithmic pattern
+binary search in array      TC-O(logn)    SC-O(logn)    (both in pass by value and pass by reference)
+binary search in vector     TC-O(logn)    SC-O(n*logn)   (in pass vector by value)
+binary search in vector     TC-O(logn)    SC-O(logn)    (in pass by reference)
+
+merge sort          TC-O(n*logn)    SC-O(n)    (both in pass by value and pass by reference)    in array
+
+backtracking
+permutaions             TC-O(n!)    SC-O(n)
+rat in a maze           TC-O(4^(m*n))    SC-O(m*n)
+sudoku solver           TC-O(9^(m*n))    SC-O(m*n)      both are constant for standard sudoku (9*9 matrix)
+n queens                TC-O(n^n) or O(n!)    SC-O(n^2)
+phone keypad problem    TC-O(4^n)    SC-O(n)
+
+n*(4^n) -> in it n can be neglected to form (4^n)
+
+
+HOMEWORK
+combination sum
+cut rod into segments
+generate parenthesis
+quick sort
+between merge sort and quick sort, which is better in linked list and which is better in array?     (IMP)

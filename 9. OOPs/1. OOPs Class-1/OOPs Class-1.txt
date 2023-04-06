@@ -1,0 +1,9 @@
+HOMEWORK
+padding and greedy alignment
+memory leach and how can we prevent it
+garbage collector
+const keyword   (variable and function creation)
+static members
+initialization list
+
+deep vs shallow copy
