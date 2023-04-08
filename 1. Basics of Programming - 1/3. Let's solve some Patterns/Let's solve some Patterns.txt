@@ -1,4 +1,4 @@
-conditionals    if  else if  else
+conditionals    if  else if  else 
 loops
     for loop
     what terms are necessary in for loop

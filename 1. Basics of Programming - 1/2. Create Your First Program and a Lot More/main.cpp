@@ -66,6 +66,11 @@ int main(){
         // short
         short s = 23;
         cout<<"size of s is " << sizeof(s) << endl;
+
+        cout << sizeof(10000)<<'\n';
+        // cout << sizeof(1000000000000002f)<<'\n';     // ERROR    cant store in memory
+        cout << sizeof(10000000000)<<'\n';
+        cout << sizeof(1.5)<<'\n';
     */
 
     /*// typecasting
@@ -74,7 +79,7 @@ int main(){
             cout<<ch<<'\n';
 
             int num = 'b';
-            cout<<num<<'\n';
+            cout<<num<<"\n\n";
 
         // explicit typecasting
             ch = char(97);
@@ -87,11 +92,11 @@ int main(){
             cout<<f<<'\n';
 
             double d = 5.7;
-            int x = (int)(d+2);
-            cout<<x<<'\n';
+            int x = (int)(d-2.9);
+            cout<<x<<"\n\n";
 
         // overflow example
-            ch = 9999;
+            ch = 999;
             cout<<ch<<'\n';
     */
     
@@ -149,5 +154,6 @@ int main(){
                 cout << (a==5) <<'\n';
                 cout << !(a==5) <<"\n\n";
         */
-    
+
+    return 0;
 }
