@@ -1,0 +1,15 @@
+for linked list / simple / singly LL
+    creating a node
+    creating a linked list from individual nodes and printing it
+    printing a linked list
+    insert a node at head
+    insert a node at tail
+    find length
+    insert a node at any position
+    delete a node from any position
+
+HOMEWORK
+insert a node after specific value
+delete a node after specific value
+delete a node with specific data value
+write a destructor to delete node

@@ -1,0 +1,21 @@
+main.cpp
+    for doubly linked list
+        creating a node
+        creating a doubly linked list from individual nodes and printing it
+        printing a doubly linked list
+        find length
+        insert a node at head
+        insert a node at tail
+        insert a node at any position
+        delete a node from any position
+
+main2.cpp
+    reversing a singly linked list
+
+HOMEWORK
+insert a node after specific value
+delete a node after specific value
+delete a node with specific data
+write destructor of node in doubly LL
+    already done in DSA Supreme\10. Linked Lists\1. LL Class - 1\HOMEWORK
+insertion and deletion in circular linked list and circular doubly linked list
