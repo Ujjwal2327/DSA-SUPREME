@@ -1,0 +1,10 @@
+create a BST
+insert a node in BST
+search a node in BST
+minimum node in BST
+maximum node in BST
+delete a node in BST
+
+HOMEWORK
+inorder predecessor and successor in BST
+    only whole left and right subtree exists respectively

@@ -1,0 +1,6 @@
+isalpha(ch)         returns a value other than 0 if true, otherwise returns 0
+
+tolower(ch)         returns ASCII value of lowercase ch 
+
+toupper(ch)         returns ASCII value of uppercase ch 
+

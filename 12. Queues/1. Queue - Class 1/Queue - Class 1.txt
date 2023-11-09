@@ -1,0 +1,24 @@
+HOMEWORK
+circular petrol pump
+implement circular queue using modulus
+    but dont use in interview as % is heavy operator
+input restricted queue
+    push only from rear but pop from both front and rear
+output restricted queue
+    pop only from front but push from both front and rear
+find front, back, empty, size in CQueue and CDeque
+read deque documentation from cpp reference
+STL deque has no concept of circular
+how STL deque is implemented
+    doubly linked list i guess?
+
+enqueue
+    push / add in front
+dequeue
+    pop / remove from rear
+
+deque
+    doubly ended queue
+    push and pop from both front and rear
+    can either be circular or not
+

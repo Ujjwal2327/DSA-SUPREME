@@ -1,0 +1,11 @@
+whether a linked list is palindrome or not
+remove duplicates from a sorted linked list
+
+
+HOMEWORK
+remove duplicates from unsorted linked list
+    solve using nested loops
+    solve using map
+    sort and then solve
+add 1 in a number represented by linked list
+merge 2 sorted linked list

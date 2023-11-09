@@ -2,31 +2,44 @@
 
 #include<iostream>
 #include<string.h>
+#include<unordered_map>
 using namespace std;
 
-bool isIsomorphic(string s, string t) {
-    int n = s.length();
-    int m = t.length();
-    char ch[256];
-    char flag[256] = {0};
-    memset(ch, -1, 256);
+bool isIsomorphic(string s1, string s2) {
+    unordered_map<char,char>mapping;            // ch1, ch2
+    unordered_map<char,bool>isVisited;            // ch2, bool
 
-    if(m!=n)
+    int n = s1.length();
+
+    if(n != s2.length())
         return false;
-    
+
     for(int i=0; i<n; i++){
-        if(ch[s[i]]==-1){
-            if( flag[t[i]] )
+        char ch1 = s1[i];
+        char ch2 = s2[i];
+
+        if(mapping[ch1]){
+            if(mapping[ch1] != ch2)
                 return false;
-            else{
-                flag[t[i]] = true;
-                ch[s[i]] = t[i];
-            }
         }
         else{
-            if(ch[s[i]] != t[i])
+            if(isVisited[ch2])      // it means ch2 is already been mapped with some character 
                 return false;
+            else{
+                mapping[ch1] = ch2;
+                isVisited[ch2] = true;
+            }
         }
+   
+        // this and above code are same
+        // if(!mapping[ch1] && !isVisited[ch2]){
+        //     mapping[ch1] = ch2;
+        //     isVisited[ch2] = true;
+        // }
+        // else if(mapping[ch1]==ch2 && isVisited[ch2])
+        //     continue;
+        // else
+        //     return false;   
     }
 
     return true;
@@ -47,4 +60,5 @@ int main(){
 /*INPUTS
 badc
 baba
+// ans should be 0
 */

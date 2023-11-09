@@ -1,0 +1,17 @@
+balanced tree or not
+    https://leetcode.com/problems/balanced-binary-tree/
+lowest common ancestor  [V.V.V. IMP]
+    https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+kth ancestor of a node
+    https://practice.geeksforgeeks.org/problems/kth-ancestor-in-a-tree/1
+path sum 2
+    https://leetcode.com/problems/path-sum-ii
+
+HOMEWORK
+check whether the tree is sum tree
+convertIntoSUmtree
+    https://www.geeksforgeeks.org/convert-a-given-tree-to-sum-tree/
+kth ancestor of a node leetcode
+    https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
+path Sum where path can be from any node to any other node
+sum of longest bloodline

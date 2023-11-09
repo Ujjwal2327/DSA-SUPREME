@@ -1,0 +1,13 @@
+tree and its concepts
+create node
+
+https://leetcode.com/problems/maximum-depth-of-binary-tree/
+https://leetcode.com/problems/diameter-of-binary-tree/submissions/967021227/
+
+HOMEWORK
+dry run all code
+buildTree using level order traversal
+inorder, preorder, postorder using iterative method
+check if 2 trees are identical or not
+check if 2 trees are mirror of each other or not
+balanced binary tree

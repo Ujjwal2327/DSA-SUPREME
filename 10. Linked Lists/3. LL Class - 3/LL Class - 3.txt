@@ -1,0 +1,16 @@
+middle node of a linkedlist
+    tortoise algorithm / slow fast pointers approach
+reverse linkedlist in k groups (VVVVV IMP)
+detect and delete loop
+    floyd's cycle detection algorithm
+    
+HOMEWORK
+middle node of a linkedlist
+    (n+1)/2th node approach
+given circular linked list is circular or not
+    using 1 pointer
+    using map
+    using tortoise alogorithm / slow fast pointers
+detect and delete loop
+    using map
+find and count function in map

@@ -1,0 +1,7 @@
+pranshna.patel@unacademy.com
+
+operations in STL stackcreate, insert, remove, top element, size, empty or not and print whole stack
+stack impementation using dynamic array
+implement 2 stacks with push & pop functionality in an array
+    Implemetation 1. break an array into 2 half stacks
+    Implemetation 2. use 2 pointer approach

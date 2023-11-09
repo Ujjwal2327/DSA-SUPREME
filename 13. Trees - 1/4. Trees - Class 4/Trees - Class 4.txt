@@ -1,0 +1,16 @@
+create a tree using inorder and preorder    [V.V.V.Imp]
+create a tree using inorder and postorder   [V.V.V.Imp]
+
+HOMEWORK
+create a tree using preorder and postorder  [V.V.V.Imp]
+zigzag traversal
+boundry traversal
+vertical order traversal
+morris traversal
+top view
+left view
+bottom view
+right view
+burn the tree
+flatten the tree into linked list
+diagonal traversal

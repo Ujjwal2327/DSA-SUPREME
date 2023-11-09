@@ -1,0 +1,2 @@
+HOMEWORK
+minimum jumps stairs to reach

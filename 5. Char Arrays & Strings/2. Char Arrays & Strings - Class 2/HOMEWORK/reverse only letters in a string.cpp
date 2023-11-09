@@ -26,6 +26,22 @@ string reverseOnlyLetters(string s) {
 
     return s;
 }
+string reverseOnlyLetters2(string s) {
+    int n = s.length();
+    int st = 0;
+    int e = n - 1;
+
+    while(st<e){
+        if( !isalpha(s[st]) )
+            st++;
+        else if( !isalpha(s[e]) )
+            e--;
+        else
+            swap(s[st++], s[e--]);
+    }
+
+    return s;
+}
 
 int main(){
 
@@ -33,6 +49,9 @@ int main(){
     getline(cin, s);
     string ans = reverseOnlyLetters(s);
     cout<<ans<<'\n';
+
+    string ans2 = reverseOnlyLetters2(s);
+    cout<<ans2<<'\n';
 
     return 0;
 }
